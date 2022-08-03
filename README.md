@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyantik
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ Java
 - 📫 How to reach me akarizidu2@gmail.com
 
 <!---
