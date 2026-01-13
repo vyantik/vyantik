@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vyantik
-- 📫 How to reach me а никак)
 
 # 💻 Tech Stack:
 
